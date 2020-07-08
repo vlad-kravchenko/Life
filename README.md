@@ -1,0 +1,2 @@
+# Life
+Simple game "Life"
